@@ -8,6 +8,8 @@
 // @exclude     http://exhentai.org/g/*
 // @exclude     http://exhentai.org/s/*
 // @require    http://code.jquery.com/jquery-latest.min.js
+// @downloadURL   https://github.com/RikisX/ehentai/raw/master/85700.user.js
+// @updateURL     https://github.com/RikisX/ehentai/raw/master/85700.user.js
 // @version       2014.8.2
 // @author      Rikis
 // ==/UserScript==
