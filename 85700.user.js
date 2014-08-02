@@ -10,7 +10,7 @@
 // @require    http://code.jquery.com/jquery-latest.min.js
 // @downloadURL   https://github.com/RikisX/ehentai/raw/master/85700.user.js
 // @updateURL     https://github.com/RikisX/ehentai/raw/master/85700.user.js
-// @version       2014.8.2
+// @version       2014.8.2a
 // @author      Rikis
 // ==/UserScript==
 
