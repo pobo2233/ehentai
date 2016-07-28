@@ -4,9 +4,9 @@
 // @include     http://g.e-hentai.org/*
 // @exclude     http://g.e-hentai.org/g/*
 // @exclude     http://g.e-hentai.org/s/*
-// @include     http://exhentai.org/*
-// @exclude     http://exhentai.org/g/*
-// @exclude     http://exhentai.org/s/*
+// @include     htt*://exhentai.org/*
+// @exclude     htt*://exhentai.org/g/*
+// @exclude     htt*://exhentai.org/s/*
 // @require    http://code.jquery.com/jquery-latest.min.js
 // @downloadURL   https://github.com/RikisX/ehentai/raw/master/85700.user.js
 // @updateURL     https://github.com/RikisX/ehentai/raw/master/85700.user.js
