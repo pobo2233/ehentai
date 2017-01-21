@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name        e-hentai tags
 // @description Show all tags
-// @include     http://g.e-hentai.org/*
-// @exclude     http://g.e-hentai.org/g/*
-// @exclude     http://g.e-hentai.org/s/*
+// @include     htt*://g.e-hentai.org/*
+// @exclude     htt*://g.e-hentai.org/g/*
+// @exclude     htt*://g.e-hentai.org/s/*
 // @include     htt*://exhentai.org/*
 // @exclude     htt*://exhentai.org/g/*
 // @exclude     htt*://exhentai.org/s/*
 // @require    http://code.jquery.com/jquery-latest.min.js
 // @downloadURL   https://github.com/RikisX/ehentai/raw/master/85700.user.js
 // @updateURL     https://github.com/RikisX/ehentai/raw/master/85700.user.js
-// @version       2016.7.28
+// @version       2017.01.21
 // @author      Rikis
 // ==/UserScript==
 
